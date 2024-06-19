@@ -158,7 +158,7 @@ I deployed the Twitter smart contract to the Sepolia test network. Here’s how 
 3. **Post a Tweet**: After deploying the contract, I created a tweet on the Sepolia test network using the `createTweet` function in the deployed contract.
 
 4. **Sepolia test network Etherscan**
-![Deployed Contract Screenshot](https://github.com/mike/Calculator-Smart-Contract/blob/main/deployed.png?raw=true)
+![Deployed Contract Screenshot](https://github.com/jason-victor1/Twitter-Smart-Contract/blob/main/twitter%20contract.png?raw=true)
 
 ## License
 
