@@ -160,6 +160,13 @@ I deployed the Twitter smart contract to the Sepolia test network. Here’s how 
 4. **Sepolia test network Etherscan**
 ![Deployed Contract Screenshot](https://github.com/jason-victor1/Twitter-Smart-Contract/blob/main/twitter%20contract.png?raw=true)
 
+5. **Deploy using MetaMask Again**: I connected my MetaMask wallet to Remix IDE. After ensuring I had enough test ETH, I selected the "Injected Web3" environment in the `Deploy & Run Transactions` tab of Remix IDE, which connects to my MetaMask wallet. Then, I deployed the contract to the Sepolia test network.
+
+6. **Post a Tweet Again**: After deploying the contract, I created a tweet on the Sepolia test network using the `createTweet` function in the deployed contract. This emitted the `TweetCreated` event.
+
+7. **Sepolia test network Etherscan**
+![Deployed Contract Screenshot](https://github.com/jason-victor1/Twitter-Smart-Contract/blob/main/tweet%20events.png?raw=true)
+
 ## License
 
 This project is licensed under the MIT License.
