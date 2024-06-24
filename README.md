@@ -29,7 +29,7 @@ To deploy and interact with this smart contract, I used [Remix IDE](https://remi
     ```solidity
     // SPDX-License-Identifier: MIT
 
-    pragma solidity ^0.8.0;
+    pragma solidity ^0.8.26;
 
     contract Twitter {
 
