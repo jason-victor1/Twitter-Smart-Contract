@@ -167,6 +167,3 @@ I deployed the Twitter smart contract to the Sepolia test network. Here’s how 
 7. **Sepolia test network Etherscan**
 ![Deployed Contract Screenshot](https://github.com/jason-victor1/Twitter-Smart-Contract/blob/main/tweet%20events.png?raw=true)
 
-## License
-
-This project is licensed under the MIT License.
